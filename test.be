@@ -1,2 +1,9 @@
-let abc = 123 * 20 + 20 + (22 / 2) - 3;
+/* 
+    we can now add multiline comments
+    like this
+*/
+
+//can add single line comments also
+
+let abc = 900 + 222;
 dbg abc + abc;
